@@ -1,0 +1,57 @@
+* {
+    font-family: Cambria;
+}
+
+header, footer{
+    background-color:#829EB9;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.left, .right{
+    background-color:#83C6D9;
+    height:400px;
+    width:25%;
+    padding-top:100px;
+    float:left;
+}
+.middle{
+    background-color:#E0E9F1;
+    height: 400px;
+    width: 50%;
+    text-align: center;
+    padding-top:100px;
+    float:left;
+}
+footer{
+    clear: both;
+}
+
+table{
+    border: 1px solid dimgray;
+    border-collapse: collapse;
+    margin:auto;
+}
+
+td,th{
+    border: 1px solid dimgrey;
+    border-collapse: collapse;
+    font-weight:400px;
+}
+
+.cenaS{
+    background-color:#83C6D9;
+    text-align: center;
+}
+
+.tes{
+    height: 300px;
+    width: 300px;
+    font-size: large;
+    background-color: aqua;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+}
